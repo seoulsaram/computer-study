@@ -20,3 +20,4 @@
 
 - [Chapter 01. 컴퓨터 내부의 언어 체계](Chapter01/README.md)
 - [Chapter 02. 전자 회로의 조합 논리](Chapter02/README.md)
+- [Chapter 03. 메모리와 디스크의 핵심: 순차논리](Chapter03/README.md)
