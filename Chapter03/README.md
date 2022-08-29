@@ -26,6 +26,7 @@
 ### RAM(Random Access Memory)
 
 RAM이란 아래 항목(모두 전자 회로 덩어리)으로 구성된 전자 기억장치.
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/53505355/187176145-3eb7f173-de7c-4d16-a8f2-60cb33e2ce13.png)
 
 - 메모리(2차 배열) N \* M개
 - 행 디코더 1개
