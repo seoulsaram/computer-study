@@ -25,3 +25,8 @@
 - [Chapter 05. 컴퓨터 아키텍처와 운영체제](Chapter05/README.md)
 - [Chapter 06. 입출력과 네트워킹](Chapter06/README.md)
 - [Chapter 07. 데이터 구조와 처리](Chapter07/README.md)
+- [Chapter 08. 프로그래밍 언어 처리](Chapter08/README.md)
+- [Chapter 09. 웹 브라우저](Chapter09/README.md)
+- [Chapter 11. 성능 향상을 위한 알고리즘 기법 - 1](Chapter11/11-1.md)
+- [Chapter 11. 성능 향상을 위한 알고리즘 기법 - 2](Chapter11/11장.md)
+- [Chapter 12. 병렬성과 비동기성](Chapter12/README.md)
