@@ -31,3 +31,4 @@
 - [Chapter 11. 성능 향상을 위한 알고리즘 기법 - 1](Chapter11/11-1.md)
 - [Chapter 11. 성능 향상을 위한 알고리즘 기법 - 2](Chapter11/11장.md)
 - [Chapter 12. 병렬성과 비동기성](Chapter12/README.md)
+- [Chapter 13-3. 보안을 위한 소프트웨어 예방 조치](Chapter13-3/README.md)
