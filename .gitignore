@@ -1,0 +1,10 @@
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+.vscode/
+.DS_Store
